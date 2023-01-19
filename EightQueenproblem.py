@@ -186,6 +186,7 @@ def KeyBindings():
 	s.onkeypress(ResetCounter,'c')
 	s.onkeypress(LimitAlter,'e')
 	s.onkeypress(Restart,'r')
+	s.onkeypress(quit,'q')
 	s.listen()
 def pxy(x,y):
 	print(str(x),',',str(y))
