@@ -17,7 +17,8 @@ These are the predefined keybinds.
 * **A** for printing current queen position array
 * **C** for reseting Counter
 * **E** for toggling Counter limit
-* **R** for Restarting game
+* **R** for Restarting the game
+* **Q** for Quiting the game
 
 ## References
 You can aslo refer to this [Documentation](https://example.com) to learn about the commands used to build this.
