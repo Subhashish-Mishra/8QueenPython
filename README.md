@@ -7,7 +7,7 @@ This is the required dependency to run this,
 * turtle (may come along with Python3)
 
 You can run in dedicated Python Turtle environment. Just install,
-  ```sh
+  ```
   pip install PythonTurtle
   ```
 ## Usage
