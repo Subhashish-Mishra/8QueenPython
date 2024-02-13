@@ -77,7 +77,7 @@ def Restart():
 	print(TilesPos,' ',len(TilesPos))
 	if eq.Counter == 9:
 		f = open('EQSolutions.txt','a')
-		f.write('\n')
+		# f.write('\n')
 		f.write(str(TilesPos))
 		f.write('\n')
 		f.close()

@@ -22,4 +22,4 @@ These are the predefined keybinds.
 
 ## References
 You can aslo refer to this [Documentation](https://example.com) to learn about the commands used to build this.
-_Don't disturb me if you can't understand any part of this. Otherwise if issues then do Create Issues 😇._
+_Don't disturb me if you can't understand any part of this. Otherwise if identifies any issues then do create one 😇._
