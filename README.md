@@ -10,6 +10,18 @@ You can run in dedicated Python Turtle environment. Just install,
   ```
   pip install PythonTurtle
   ```
+## Run
+Use this command to run the Eight Queen Game Problem
+
+For Windows 
+```
+py EightQueenproblem.py
+```
+For Linux 
+```
+python3 EightQueenproblem.py
+```
+
 ## Usage
 These are the predefined keybinds.
 *  **Mouse-1** for placeing queen on Square
