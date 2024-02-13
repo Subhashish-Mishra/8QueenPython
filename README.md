@@ -2,9 +2,10 @@
 Eight Queen Game and Automation program created using Python Turtle.
 ## Dependency
 This is the required dependency to run this,
-* Python3
+* Python3,
   To download [goto](https://www.python.org/downloads/).
-* turtle (may come along with Python3)
+* turtle
+  (may come along with Python3)
 
 You can run in dedicated Python Turtle environment. Just install,
   ```
@@ -13,11 +14,11 @@ You can run in dedicated Python Turtle environment. Just install,
 ## Run
 Use this command to run the Eight Queen Game Problem
 
-For Windows 
+### For Windows 
 ```
 py EightQueenproblem.py
 ```
-For Linux 
+### For Linux 
 ```
 python3 EightQueenproblem.py
 ```
