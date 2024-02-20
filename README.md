@@ -5,7 +5,7 @@ This is the required dependency to run this,
 * Python3,
   To download [goto](https://www.python.org/downloads/).
 * turtle
-  (may come along with Python3)
+  ( may come along with Python3 )
 
 You can run in dedicated Python Turtle environment. Just install,
   ```
